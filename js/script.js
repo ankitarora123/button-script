@@ -12,7 +12,8 @@ var IM = function() {
   var currency = 'INR';
   var resources = {
     inventory: {
-      'staging': 'https://api.stores.mjc.instamojo.com',
+      'staging': 'https://api.stores.mjc0.instamojo.com',
+      'staging0': 'https://api.stores.mjc0.instamojo.com',
       'production': 'https://api.stores.instamojo.com',
     }
   };
